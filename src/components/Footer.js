@@ -7,7 +7,7 @@ export const Footer = () => {
       
       <div className="bg-body text-center text-lg py-5">
         <p className = "text-texts">
-          Drei Loreto Port Folio | Front-End / UI/UX Developer | 2023
+        © 2023 Drei Loreto | Port Folio | All Rights Reserved.
         </p>
       </div>
     </footer>
