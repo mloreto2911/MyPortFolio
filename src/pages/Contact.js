@@ -45,7 +45,7 @@ export const Contact = () => {
             <div>
               <div>
                 <p data-aos="zoom-out" data-aos-duration="700" data-aos-delay="800" className="text-texts text-2xl pr-10 pb-10">
-                  I have a dream of pursuing my career as a web developer. So I am actively seeking new opportunities  to leverage my skills. I am confident in my ability to bring value to any project or organization. If you are interested in learning more about me and how I can contribute to your team, please feel free to contact me through the information provided below (which are also provided in my <a className="text-titles" target="_blank" href="https://drive.google.com/file/d/1Ib1Qq8mMTi5zKtk7D6jWd1QhKp8mTsf2/view?usp=sharing">resume</a>). I look forward to discussing potential collaborations and showcasing my skills further.   
+                  I have a dream of pursuing my career as a web developer. So I am actively seeking new opportunities  to leverage my skills. I am confident in my ability to bring value to any project or organization. If you are interested in learning more about me and how I can contribute to your team, please feel free to contact me through the information provided below (which are also provided in my <a className="text-titles" target="_blank" href="https://drive.google.com/file/d/1ByGgMwY7PjXAc3E6JR16B1F0y-QYv0YE/view?usp=sharing">resume</a>). I look forward to discussing potential collaborations and showcasing my skills further.   
                 </p>
                 
                 {/* Contact Options */}

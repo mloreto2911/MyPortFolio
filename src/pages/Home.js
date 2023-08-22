@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import bgphoto from '../assets/home-bg.jpg'
+import bgphoto from '../assets/bgphoto-3.png'
 import { Link } from 'react-router-dom';
 import { motion } from "framer-motion";
 
@@ -12,12 +12,13 @@ export const Home = () => {
 
     return (
         // Hover Effect 
-        <div className="pt-36">
+        <div className="pt-28">
             <div className="w-screen relative -z-50 ">
-                    <img className="fixed inset-0 object-cover object-top w-full h-full" data-aos="fade-up" data-aos-duration="700" src={bgphoto}/></div>
+                <img className="fixed inset-0 object-cover object-right w-full h-full pt-10" data-aos="fade-up" data-aos-duration="700" src={bgphoto}/>
+            </div>
             <div>
                 <div className='container'>
-                    <div className="z-50 text-white text-8xl font-bold">
+                    <div className="z-80 text-white text-8xl font-bold pt-16">
                         {/* <h2>home</h2> */}
                         <p data-aos="fade-right" data-aos-duration="700" data-aos-delay="400">
                           <Link to='/about'>

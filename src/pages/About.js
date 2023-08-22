@@ -23,7 +23,6 @@ export const About = () => {
                 </div>
               </div>
             </div>
-            <svg class="animate-bounce w-6 h-6 text-titles"></svg>
             
             {/* Content */}
             <div>
@@ -48,7 +47,7 @@ export const About = () => {
                 </p>
                 
                 <p data-aos="zoom-out" data-aos-duration="700" data-aos-delay="900" className="text-titles text-2xl px-10 pb-32 font-bold"> 
-                <a target="_blank" href="https://drive.google.com/file/d/1Ib1Qq8mMTi5zKtk7D6jWd1QhKp8mTsf2/view?usp=sharing">Click to view/download my resume</a>
+                <a target="_blank" href="https://drive.google.com/file/d/1ByGgMwY7PjXAc3E6JR16B1F0y-QYv0YE/view?usp=sharing">Click to view/download my resume</a>
                 </p>
 
               </div>
